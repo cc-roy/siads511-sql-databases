@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# pg4 creds
+pg4-server-creds.txt
+
 # C extensions
 *.so
 
